@@ -1,6 +1,6 @@
 # 2018 Emergency INDEX
 
-Content from the vol. 6 (2018) Emergency INDEX. 
+Content from the vol. 8 (2018) Emergency INDEX. 
 
 ### Branches
 
