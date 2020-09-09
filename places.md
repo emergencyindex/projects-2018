@@ -7,7 +7,7 @@ title: 'Index 2018: Places'
 
 {: .index-ul }
 * **Argentina**
-  * Buenos Aires  [64], [318]
+  * Buenos Aires  [064], [318]
 * **Austrailia**  [440]
   * Brisbane  [396]
   * Perth  [358]
@@ -32,12 +32,12 @@ title: 'Index 2018: Places'
   * Calgary  [256]
   * Iqaluit  [452]
   * Lethbridge  [350]
-  * Montreal  [52], [224], [290], [326], [506]
+  * Montreal  [052], [224], [290], [326], [506]
   * Picton  [354]
-  * Regina  [68]
+  * Regina  [068]
   * Saskatoon  [276]
   * Shíshálh Nation  [164]
-  * Toronto  [68], [224], [354]
+  * Toronto  [068], [224], [354]
   * Toronto Island  [298]
 * **Chile**
   * Santiago  [148]
@@ -45,7 +45,7 @@ title: 'Index 2018: Places'
   * Guangzhou  [346]
 * **Colombia**
   * Cali  [324]
-  * Cartagena  [92]
+  * Cartagena  [092]
   * Medellin  [324]
 * **Cuba**
   * Havana  [188]
@@ -56,15 +56,15 @@ title: 'Index 2018: Places'
   * Quito  [178], [242]
 * **Finland**
   * Fiskars Village  [296]
-  * Helsinki  [50], [296], [382], [516], [520]
+  * Helsinki  [050], [296], [382], [516], [520]
 * **France**
   * Dunkirk  [212]
   * Burgundy  [246]
   * Paris  [152], [328]
 * **Germany**
-  * Berlin  [48], [156], [176], [210], [214], [280], [368], [412], [418], [440], [512], [564]
+  * Berlin  [048], [156], [176], [210], [214], [280], [368], [412], [418], [440], [512], [564]
   * Cologne  [182]
-  * Essen  [2], [248]
+  * Essen  [002], [248]
   * Munich  [346]
 * **Guatemala**
   * Guatemala City  [148]
@@ -98,21 +98,21 @@ title: 'Index 2018: Places'
   * Vilnius  [320]
   * Martinique  [498]
 * **Mexico**
-  * Cholula  [70]
-  * Guadalajara  [62]
-  * Mexico City  [20], [30], [256], [476], [488], [552]
+  * Cholula  [070]
+  * Guadalajara  [062]
+  * Mexico City  [020], [030], [256], [476], [488], [552]
   * Monterrey  [488]
 * **Morocco**
   * Casablanca  [200]
 * **Netherlands**
   * Amsterdam  [220], [352], [536]
-  * Arnhem  [56]
+  * Arnhem  [056]
 * **Norway**
   * Finse  [312]
   * Bergen  [312]
-  * Longva  [2]
-  * Oslo  [78], [152]
-  * Velsvik  [78]
+  * Longva  [002]
+  * Oslo  [078], [152]
+  * Velsvik  [078]
 * **Panama**
   * Panama City  [348], [568]
 * **Poland**
@@ -120,7 +120,7 @@ title: 'Index 2018: Places'
   * Lublin  [492]
   * Warsaw  [456]
 * **Portugal**
-  * Lisbon  [30], [134], [470]
+  * Lisbon  [030], [134], [470]
 * **Romania**
   * Bucharest  [128]
 * **Serbia**
@@ -128,8 +128,8 @@ title: 'Index 2018: Places'
   * Odzaci  [114]
 * **Singapore**  [146]
 * **South Korea**  [502]
-  * DMZ Area  [34]
-  * Seoul  [66]
+  * DMZ Area  [034]
+  * Seoul  [066]
 * **Spain**  [400]
   * Barcelona  [134], [174], [212]
   * Madrid  [202]
@@ -137,28 +137,28 @@ title: 'Index 2018: Places'
 * **Sweden**
   * Malmö  [210]
   * Old Linköping  [292]
-  * Stockholm  [50]
+  * Stockholm  [050]
 * **Switzerland**
-  * Basel  [86]
+  * Basel  [086]
   * Lucerne  [410]
-  * Zurich  [86]
+  * Zurich  [086]
 * **Taiwan**
   * Taipei  [332]
 * **Thailand**
   * Bangkok  [418], [456]
 * **Turkey**
-  * Istanbul  [54], [216]
+  * Istanbul  [054], [216]
 * **United Kingdom**
   * **England**
     * Croydon  [244]
-    * Devon  [44]
-    * Edinburgh  [20]
+    * Devon  [044]
+    * Edinburgh  [020]
     * Folkestone  [182]
     * Glasbury  [230]
     * Leeds  [262]
-    * London  [34], [44], [48], [110], [126], [234], [236], [244], [258], [278], [316], [378], [560]
+    * London  [034], [044], [048], [110], [126], [234], [236], [244], [258], [278], [316], [378], [560]
     * Manchester  [262], [378]
-    * Newcastle  [2], [234]
+    * Newcastle  [002], [234]
     * Nottingham  [416]
     * Shrewsbury  [416]
     * Weald Village  [486]
@@ -168,7 +168,7 @@ title: 'Index 2018: Places'
   * **Wales**  [258]
 * **United States**
   * **Arizona**
-    * Phoenix  [16], [548]
+    * Phoenix  [016], [548]
     * Tucson  [482]
   * **Arkansas**
     * Clarksville  [348]
@@ -176,20 +176,20 @@ title: 'Index 2018: Places'
   * **California**
     * Escondido  [196]
     * Irvine  [408], [454]
-    * Los Angeles  [14], [16], [36], [162], [166], [192], [214], [368], [370], [404], [408], [454], [518], [542], [564]
-    * Monterey Park  [12]
-    * Oakland  [4], [566]
+    * Los Angeles  [014], [016], [036], [162], [166], [192], [214], [368], [370], [404], [408], [454], [518], [542], [564]
+    * Monterey Park  [012]
+    * Oakland  [004], [566]
     * San Diego  [196]
-    * San Francisco  [8], [24], [108], [372], [386], [500], [570]
-    * San Jose  [46]
+    * San Francisco  [008], [024], [108], [372], [386], [500], [570]
+    * San Jose  [046]
     * San Luis Obispo  [282]
     * Santa Ana  [166]
-    * Santa Cruz  [28]
+    * Santa Cruz  [028]
     * Simi Valley  [384]
-    * South Central  [12]
+    * South Central  [012]
     * Ventura  [384]
   * **Colorado**
-    * Denver  [76], [446]
+    * Denver  [076], [446]
   * **Connecticut**
     * Middletown  [172]
     * Niantic  [482]
@@ -202,17 +202,17 @@ title: 'Index 2018: Places'
     * Miami  [284], [336], [466], [528], [542]
     * Tallahassee  [568]
   * **Georgia**
-    * Atlanta  [26], [286], [394], [444], [528], [562]
+    * Atlanta  [026], [286], [394], [444], [528], [562]
   * **Idaho**
     * Garden City  [472]
   * **Illinois**
-    * Chicago  [6], [36], [60], [66], [74], [102], [118], [124], [140], [158], [176], [186], [256], [284], [286], [290], [380], [410], [412], [442], [496], [524], [526], [534], [550], [556]
+    * Chicago  [006], [036], [060], [066], [074], [102], [118], [124], [140], [158], [176], [186], [256], [284], [286], [290], [380], [410], [412], [442], [496], [524], [526], [534], [550], [556]
   * **Indiana**
     * Lafayette  [400]
   * **Iowa**
     * Cedar Falls  [540]
     * Cedar Rapids  [540]
-    * Iowa City  [94], [424]
+    * Iowa City  [094], [424]
     * Waterloo  [424]
   * **Kansas**
     * Kansas City  [206]
@@ -228,10 +228,10 @@ title: 'Index 2018: Places'
     * Baltimore  [104], [142], [304]
     * Salisbury  [292]
   * **Massachusetts**
-    * Amherst  [88]
-    * Ashfield  [90]
+    * Amherst  [088]
+    * Ashfield  [090]
     * Boston  [162], [170], [190], [218], [522], [546]
-    * New Bedford  [72]
+    * New Bedford  [072]
   * **Michigan**
     * Ann Arbor  [100], [398]
     * Detroit  [270], [336]
@@ -244,15 +244,15 @@ title: 'Index 2018: Places'
   * **Missouri**
     * Cape Girardeau  [510]
     * Kansas City  [104], [106], [206], [322], [458]
-    * St. Louis   [52]
+    * St. Louis   [052]
   * **Nevada**
     * Las Vegas  [250]
   * **New Jersey**
     * Asbury Park  [304]
-    * Bayville  [40]
+    * Bayville  [040]
     * Jersey City  [268], [366], [498]
     * Newark  [414]
-    * Ridgefield Park  [90]
+    * Ridgefield Park  [090]
     * Somerville  [170]
   * **New Mexico**
     * Albuquerque  [284]
@@ -260,42 +260,42 @@ title: 'Index 2018: Places'
     * Amagansett  [484]
     * Amenia  [466]
     * Beacon  [462]
-    * Brooklyn  [10], [18], [20], [32], [80], [88], [92], [98], [130], [132], [160], [168], [170], [178], [204], [212], [218], [238], [242], [264], [268], [272], [274], [302], [308], [310], [334], [344], [360], [364], [372], [376], [402], [414], [422], [426], [430], [464], [472], [476], [494], [514], [548], [556]
+    * Brooklyn  [010], [018], [020], [032], [080], [088], [092], [098], [130], [132], [160], [168], [170], [178], [204], [212], [218], [238], [242], [264], [268], [272], [274], [302], [308], [310], [334], [344], [360], [364], [372], [376], [402], [414], [422], [426], [430], [464], [472], [476], [494], [514], [548], [556]
     * Catskill  [184]
     * Jefferson  [462]
-    * Kingston  [52], [152]
-    * Long Island City  38
+    * Kingston  [052], [152]
+    * Long Island City  [038]
     * Manhattan  [170], [406]
     * Mattituck  [240]
-    * New Rochelle  [90]
-    * New York  [18], [26], [32], [52], [70], [100], [122], [130], [132], [136], [138], [144], [152], [154], [158], [160], [164], [168], [172], [178],  [200], [202], [204], [222], [232], [238], [240], [242], [254], [260], [274], [288], [292], [294], [300], [332], [334], [340], [360], [362], [364], [368], [372], [376], [392], [394], [396], [400], [402], [404], [422], [426], [428], [446], [450], [460], [464], [466], [484], [492], [494], [500], [508], [532], [548], [558], [566]
-    * Queens  [10], [180], [188], [308], [332], [406], [450]
+    * New Rochelle  [090]
+    * New York  [018], [026], [032], [052], [070], [100], [122], [130], [132], [136], [138], [144], [152], [154], [158], [160], [164], [168], [172], [178],  [200], [202], [204], [222], [232], [238], [240], [242], [254], [260], [274], [288], [292], [294], [300], [332], [334], [340], [360], [362], [364], [368], [372], [376], [392], [394], [396], [400], [402], [404], [422], [426], [428], [446], [450], [460], [464], [466], [484], [492], [494], [500], [508], [532], [548], [558], [566]
+    * Queens  [010], [180], [188], [308], [332], [406], [450]
     * Saugerties  [184]
     * Staten Island  [136], [170]
-    * Stone Ridge  [22], [194]
-    * Syracuse  [84]
-    * Woodstock  [22]
+    * Stone Ridge  [022], [194]
+    * Syracuse  [084]
+    * Woodstock  [022]
   * **North Carolina**
-    * Asheville  [58]
+    * Asheville  [058]
     * Durham  [272], [562]
     * Marshall  [444]
     * Old Fort  [504]
   * **Ohio**
-    * Athens  [56]
+    * Athens  [056]
     * Cincinnati  [208], [438]
   * **Oklahoma**
-    * Tulsa  [14], [52], [304], [322]
+    * Tulsa  [014], [052], [304], [322]
   * **Oregon**
     * Bend  [504]
-    * Boring  [38]
+    * Boring  [038]
     * Corvallis  [356]
     * Eugene  [504]
-    * Portland  [58]
-    * Salem  [46], [76], [116], [342], [530]
+    * Portland  [058]
+    * Salem  [046], [076], [116], [342], [530]
     * Zena  [342]
   * **Pennsylvania**
-    * Philadelphia  [84], [172], [226], [504], [544]
-    * Pittsburgh  [82], [424]
+    * Philadelphia  [084], [172], [226], [504], [544]
+    * Pittsburgh  [082], [424]
     * Wilkes Barre  [120]
   * **Rhode Island**
     * Providence  [180], [266], [268], [270], [390]
@@ -306,9 +306,9 @@ title: 'Index 2018: Places'
     * Knoxville  [420]
     * Memphis  [508], [524]
   * **Texas**
-    * Conroe  [96]
+    * Conroe  [096]
     * Dallas  [138]
-    * Houston  [96], [374], [538]
+    * Houston  [096], [374], [538]
     * Marfa  [162]
   * **Vermont**
     * Dorset  [310]
@@ -316,10 +316,10 @@ title: 'Index 2018: Places'
     * Richmond  [380]
   * **Virginia**
     * Christiansburg  [106]
-    * Richmond  [28], [40], [82], [442]
+    * Richmond  [028], [040], [082], [442]
   * **Washington**
-    * Seattle  [4], [388], [536]
-    * Spokane  [42]
+    * Seattle  [004], [388], [536]
+    * Spokane  [042]
   * **Washington, DC**  [150], [294]
   * **Wisconsin**
     * Appleton  [450]
