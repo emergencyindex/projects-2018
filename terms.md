@@ -210,7 +210,7 @@ toc: 2018 Terms
 
 **de la Torre, MÃ³nica** [268], [269] 
 
-**De Larverie, StormÃ©** [389] 
+**De Larverie, Stormé** [389] 
 
 **De Maria, Walter** [173] 
 
@@ -353,7 +353,7 @@ toc: 2018 Terms
 
 **grief** [141], [389], [413], [533] 
 
-**Guattari, FÃ©lix** [267] 
+**Guattari, Félix** [267] 
 
 {: #H .index .sticky-nav }
 ## H
